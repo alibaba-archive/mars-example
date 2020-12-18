@@ -4,7 +4,7 @@ dependencies:
   - python=3
   - jupyterlab=0.35.1
   - numpy>=1.14.0
-  - pyarrow>=0.11.0
+  - pyarrow>=1.0.0
   - requests>=2.4.0
   - pip:
     - pymars
