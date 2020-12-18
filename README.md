@@ -11,6 +11,7 @@ They are easy to run on the cloud by clicking on the link below:
 
 Any contributions are greatly appreciated. 
 
-## Data analysis:
+
+## Examples
 
 - Explore MovieLens Dataset.
